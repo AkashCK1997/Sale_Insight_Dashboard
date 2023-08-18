@@ -10,7 +10,7 @@ Dashboard created with three Pages
 
 ## Page 2: Profit Analysis
 
-![](https://github.com/sonugahoi/sales_inghts_dashboard/blob/be0e505a4797f6ec0b491f3532ccc30234fcfde6/IMAGES/Performance%20Insights.png)
+![](https://github.com/AkashCK1997/Sale_Insight_Dashboard/blob/7ce3f9895093c7b2708853fdf4257435dda51633/Performance%20Insights.png)
 
 ## Page 3: Performance Insights
 
