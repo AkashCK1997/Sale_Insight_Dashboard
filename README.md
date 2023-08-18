@@ -6,7 +6,8 @@ Dashboard created with three Pages
 
 ## Page 1: Key Insights
 
-![](https://github.com/sonugahoi/sales_inghts_dashboard/blob/b915b2c50f3c287af62f076e8ca83e037dbf3145/IMAGES/Key%20sights.png)
+![]
+https://github.com/AkashCK1997/Sale_Insight_Dashboard/blob/main/Key%20sights.png
 
 ## Page 2: Profit Analysis
 
